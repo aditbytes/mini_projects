@@ -1,7 +1,7 @@
 # ADITYA 
 
 
- ## SHOWS MINI PROJECT
+ ## SHOWing MINI PROJECT
 
 
 ## for many 
